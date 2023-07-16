@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Generate inference from ML model</h1>
-	<h2>Upload your data to make to getinference </h2>
+	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
